@@ -1,0 +1,8 @@
+---
+title: "About"
+---
+
+I am Rovin Sharma, a plant biology undergraduate student in University of Massachusetts.
+
+I am part of the Caicedo lab, in my university, as a research assistant. I work with the many divergent species of tomatoes.
+This website contains some of the R Data Visualization work I have done with data collected in my lab.

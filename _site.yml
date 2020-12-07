@@ -1,0 +1,14 @@
+name: "my-website"
+output-dir: "docs"
+navbar:
+  title: "Tomato Data Visualizations"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Plots and Colors"
+      href: plots-colors.html
+    - text: "About"
+      href: about.html
+output: 
+  html_document: 
+    theme: simplex
