@@ -2,11 +2,14 @@ name: "my-website"
 output-dir: "docs"
 navbar:
   title: "Tomato Data Visualizations"
+  type: inverse
   left:
     - text: "Home"
       href: index.html
     - text: "Plots and Colors"
       href: plots-colors.html
+    - text: "PCA Test"
+      href: pca.html
     - text: "About"
       href: about.html
 output: 
